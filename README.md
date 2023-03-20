@@ -1,6 +1,6 @@
 MCT Project
 
-HOSTED LINK :- https://mct-six.vercel.app/
+HOSTED LINK :- https://mc-tprojectreact.vercel.app/
 TECH USED :- REACT-JS, try  to implement REDUX on login 
 
 Summary
